@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "816651436901",
+    "project_id": "weplan-fire",
+    "storage_bucket": "weplan-fire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816651436901:android:394f7cda31733afd0e978c",
+        "android_client_info": {
+          "package_name": "com.parkjb.weplan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIMXA-lNHuMNNTYxFY4WGUq-N-kVLiEQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
